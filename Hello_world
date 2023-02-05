@@ -1,0 +1,8 @@
+#include<stdio.h> // Header file that includes [standard input output (stdio)] 
+
+void main () // main function
+{
+  printf("hello world") ; // library function
+}
+
+// main function exit 
